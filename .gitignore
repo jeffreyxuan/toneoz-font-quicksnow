@@ -1,0 +1,5 @@
+fonts/variable/*.ttf
+!fonts/variable/.gitkeep
+_tmp/
+__pycache__/
+*.pyc
