@@ -86,6 +86,8 @@ Features of the editor include:
 
 ## Free and Open Source
 
+- [x] Design philosophy inspired by Morisawa’s Japanese textbook font [UD Gakusan Maru Gothic](https://www.morisawa.co.jp/topic/udgakusanrgo/).
+- [x] Structure and character planning inspired by the open-source font [Lesson One](https://github.com/ButTaiwan/LessonOne) from Zi Hai.
 - [x] Derived from the open-source Google font **Quicksand**
 - [x] Partly mixed with **Noto Sans**
 - [x] Free to use, including commercial use
