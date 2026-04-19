@@ -2,7 +2,7 @@
 
 **ToneOZ QuickSnow** is a free and open-source font family created by [ToneOZ.com](https://toneoz.com), released under the **SIL Open Font License**.
 
-<img width="1920" height="1080" alt="toneoz-quicksnow-logo01" src="./assets/toneoz-quicksnow-fb01.jpg" />
+<img width="1920" height="1080" alt="toneoz-quicksnow-logo06" src="./assets/toneoz-quicksnow-fb06.jpg" />
 
 
 Phonetic typefaces that deliver a textbook-quality reading experience and support a wide range of educational romanized phonetic annotation characters.
