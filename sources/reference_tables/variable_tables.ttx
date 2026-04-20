@@ -39133,6 +39133,8 @@
             <Ligature components="uni030C.case" glyph="Ecircumflex_uni030C"/>
           </LigatureSet>
           <LigatureSet glyph="I">
+            <Ligature components="uni030A" glyph="I_uni030A"/>
+            <Ligature components="uni030A.case" glyph="I_uni030A"/>
             <Ligature components="uni030B" glyph="I_uni030B"/>
             <Ligature components="uni030D" glyph="I_uni030D"/>
           </LigatureSet>
@@ -39149,6 +39151,8 @@
           <LigatureSet glyph="O">
             <Ligature components="uni030D,uni0358" glyph="uni01D1_uni0358"/>
             <Ligature components="uni0358,uni030D" glyph="uni01D1_uni0358"/>
+            <Ligature components="uni030A" glyph="O_uni030A"/>
+            <Ligature components="uni030A.case" glyph="O_uni030A"/>
             <Ligature components="uni030D" glyph="O_uni030D"/>
             <Ligature components="uni0358" glyph="O_uni0358"/>
           </LigatureSet>
@@ -39173,9 +39177,16 @@
           <LigatureSet glyph="U">
             <Ligature components="uni030D" glyph="U_uni030D"/>
           </LigatureSet>
+          <LigatureSet glyph="Y">
+            <Ligature components="uni030A" glyph="Y_uni030A"/>
+            <Ligature components="uni030A.case" glyph="Y_uni030A"/>
+          </LigatureSet>
           <LigatureSet glyph="a">
             <Ligature components="uni030B" glyph="a_uni030B"/>
             <Ligature components="uni030D" glyph="a_uni030D"/>
+          </LigatureSet>
+          <LigatureSet glyph="dotlessi">
+            <Ligature components="uni030A" glyph="i_uni030A"/>
           </LigatureSet>
           <LigatureSet glyph="e">
             <Ligature components="uni030A" glyph="e_uni030A"/>
@@ -39188,6 +39199,7 @@
             <Ligature components="uni030C" glyph="ecircumflex_uni030C"/>
           </LigatureSet>
           <LigatureSet glyph="i">
+            <Ligature components="uni030A" glyph="i_uni030A"/>
             <Ligature components="uni030B" glyph="i_hungarumlautcomb"/>
             <Ligature components="uni030D" glyph="i_verticallineabovecomb"/>
           </LigatureSet>
@@ -39201,6 +39213,7 @@
           <LigatureSet glyph="o">
             <Ligature components="uni030D,uni0358" glyph="uni01D2_uni0358"/>
             <Ligature components="uni0358,uni030D" glyph="uni01D2_uni0358"/>
+            <Ligature components="uni030A" glyph="o_uni030A"/>
             <Ligature components="uni030D" glyph="o_uni030D"/>
             <Ligature components="uni0358" glyph="o_uni0358"/>
           </LigatureSet>
@@ -39942,13 +39955,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      ToneOZ-Quicksnow;Version 0.260416;
+      ToneOZ-Quicksnow;Version 0.260420;
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       ToneOZ-Quicksnow
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 0.260416
+      Version 0.260420
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       ToneOZ-Quicksnow
@@ -40023,13 +40036,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      ToneOZ-Quicksnow;Version 0.260416;
+      ToneOZ-Quicksnow;Version 0.260420;
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       ToneOZ-Quicksnow
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 0.260416
+      Version 0.260420
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       ToneOZ-Quicksnow
@@ -40100,7 +40113,7 @@
     <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
          will be recalculated by the compiler -->
     <version value="4"/>
-    <xAvgCharWidth value="128"/>
+    <xAvgCharWidth value="126"/>
     <usWeightClass value="300"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00000000"/>

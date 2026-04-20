@@ -31,19 +31,19 @@
       <point x="75" y="151" />
       <point x="61" y="184" />
       <point x="63" y="197" type="qcurve" />
-      <point x="80" y="343" type="line" />
-      <point x="83" y="353" />
-      <point x="101" y="367" />
-      <point x="114" y="367" type="qcurve" />
-      <point x="278" y="367" type="line" />
-      <point x="297" y="367" />
-      <point x="320" y="345" />
-      <point x="320" y="329" type="qcurve" />
-      <point x="320" y="311" />
-      <point x="297" y="287" />
-      <point x="278" y="287" type="qcurve" />
-      <point x="129" y="287" type="line" />
-      <point x="164" y="314" type="line" />
+      <point x="80" y="346" type="line" />
+      <point x="83" y="356" />
+      <point x="101" y="370" />
+      <point x="114" y="370" type="qcurve" />
+      <point x="278" y="370" type="line" />
+      <point x="297" y="370" />
+      <point x="320" y="348" />
+      <point x="320" y="332" type="qcurve" />
+      <point x="320" y="314" />
+      <point x="297" y="290" />
+      <point x="278" y="290" type="qcurve" />
+      <point x="129" y="290" type="line" />
+      <point x="164" y="317" type="line" />
       <point x="151" y="179" type="line" />
       <point x="115" y="200" type="line" />
       <point x="131" y="226" />
