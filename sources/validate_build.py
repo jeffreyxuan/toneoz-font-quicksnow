@@ -8,7 +8,7 @@ from typing import Any
 from fontTools.ttLib import TTFont
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-GENERATED_TTF = REPO_ROOT / "fonts" / "variable" / "ToneOZ-Quicksnow.ttf"
+GENERATED_TTF = REPO_ROOT / Path("fonts/ToneOZ-Quicksnow.ttf")
 REFERENCE_METADATA = REPO_ROOT / "sources" / "reference_metadata.json"
 MANIFEST_PATH = REPO_ROOT / "sources" / "reference_tables" / "manifest.json"
 

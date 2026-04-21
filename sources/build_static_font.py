@@ -8,7 +8,7 @@ from ufo2ft import compileTTF
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 PRIMARY_UFO = REPO_ROOT / "sources" / "ToneOZ-Quicksnow-W300.ufo"
-OUTPUT_TTF = REPO_ROOT / "fonts" / "variable" / "ToneOZ-Quicksnow.ttf"
+OUTPUT_TTF = REPO_ROOT / Path("fonts/ToneOZ-Quicksnow.ttf")
 
 class BuildStaticFontError(Exception):
     """Expected error raised by the static font build step."""
