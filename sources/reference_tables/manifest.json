@@ -1,0 +1,32 @@
+{
+  "format": "fonttools-ttx-v1",
+  "build_mode": "variable",
+  "variable_tables_ttx": "variable_tables.ttx",
+  "table_json_dir": "tables",
+  "cmap_strategy": "from_ufo",
+  "cmap_uvs_json": "cmap_uvs.json",
+  "generated_json": "_tmp/generated_font.otd.json",
+  "effective_json": "_tmp/effective_font.otd.json",
+  "json_merge_tables": [
+    "GDEF",
+    "GPOS",
+    "GSUB",
+    "gasp",
+    "prep",
+    "fvar",
+    "STAT",
+    "name",
+    "OS_2"
+  ],
+  "table_tags": [
+    "GDEF",
+    "GPOS",
+    "GSUB",
+    "gasp",
+    "prep",
+    "fvar",
+    "STAT",
+    "name",
+    "OS/2"
+  ]
+}
