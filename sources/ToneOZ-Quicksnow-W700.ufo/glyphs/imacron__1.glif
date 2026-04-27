@@ -4,24 +4,16 @@
   <advance width="236" />
   <outline>
     <contour>
-      <point x="51" y="590" type="line" />
-      <point x="25" y="590" />
-      <point x="8" y="606" type="qcurve" />
-      <point x="-10" y="621" />
-      <point x="-10" y="646" type="qcurve" />
-      <point x="-10" y="669" />
-      <point x="8" y="685" type="qcurve" />
-      <point x="25" y="700" />
-      <point x="51" y="700" type="qcurve" />
-      <point x="185" y="700" type="line" />
-      <point x="211" y="700" />
-      <point x="229" y="685" type="qcurve" />
-      <point x="246" y="669" />
-      <point x="246" y="646" type="qcurve" />
-      <point x="246" y="621" />
-      <point x="229" y="606" type="qcurve" />
-      <point x="211" y="590" />
-      <point x="185" y="590" type="qcurve" />
+      <point x="40" y="630" type="line" />
+      <point x="-10" y="630" />
+      <point x="-10" y="675" type="qcurve" />
+      <point x="-10" y="719" />
+      <point x="40" y="719" type="qcurve" />
+      <point x="196" y="719" type="line" />
+      <point x="246" y="719" />
+      <point x="246" y="675" type="qcurve" />
+      <point x="246" y="630" />
+      <point x="196" y="630" type="qcurve" />
     </contour>
     <contour>
       <point x="178" y="61" type="line" />

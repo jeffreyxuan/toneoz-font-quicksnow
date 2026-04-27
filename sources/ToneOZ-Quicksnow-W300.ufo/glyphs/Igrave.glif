@@ -3,7 +3,7 @@
   <unicode hex="00CC" />
   <advance width="322" />
   <outline>
-    <component base="gravecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="20" yOffset="194" />
+    <component base="gravecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="20" yOffset="191" />
     <component base="I" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>

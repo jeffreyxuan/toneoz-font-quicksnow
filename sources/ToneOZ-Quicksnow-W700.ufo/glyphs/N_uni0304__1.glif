@@ -2,7 +2,7 @@
 <glyph name="N_uni0304" format="2">
   <advance width="735" />
   <outline>
-    <component base="uni0304.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="149" yOffset="0" />
+    <component base="uni0304.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="149" yOffset="42" />
     <component base="N" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>

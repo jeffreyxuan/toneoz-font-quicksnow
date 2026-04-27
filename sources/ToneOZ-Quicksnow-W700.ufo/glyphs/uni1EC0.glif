@@ -3,7 +3,7 @@
   <unicode hex="1EC0" />
   <advance width="572" />
   <outline>
-    <component base="gravecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="230" yOffset="330" />
+    <component base="gravecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="230" yOffset="290" />
     <component base="E" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
     <component base="uni0302.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="115" yOffset="186" />
   </outline>
