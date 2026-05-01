@@ -2,7 +2,7 @@
 <glyph name="ecircumflex_uni0304" format="2">
   <advance width="590" />
   <outline>
-    <component base="uni0304" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="70" yOffset="208" />
+    <component base="uni0304" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="70" yOffset="338" />
     <component base="ecircumflex" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>

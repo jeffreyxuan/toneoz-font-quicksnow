@@ -4,7 +4,7 @@
   <advance width="639" />
   <outline>
     <component base="A" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
-    <component base="uni0306.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="109" yOffset="185" />
-    <component base="tildecomb.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="92" yOffset="185" />
+    <component base="uni0306.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="109" yOffset="215" />
+    <component base="tildecomb.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="92" yOffset="285" />
   </outline>
 </glyph>

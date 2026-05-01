@@ -4,6 +4,6 @@
   <advance width="580" />
   <outline>
     <component base="a" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
-    <component base="uni0306" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="111" yOffset="43" />
+    <component base="uni0306" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="135" yOffset="0" />
   </outline>
 </glyph>

@@ -5,6 +5,6 @@
   <outline>
     <component base="E" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
     <component base="dotbelowcomb.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="173" yOffset="0" />
-    <component base="uni0302.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="115" yOffset="186" />
+    <component base="uni0302.case" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="115" yOffset="217" />
   </outline>
 </glyph>

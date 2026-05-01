@@ -3,7 +3,7 @@
   <unicode hex="01DA" />
   <advance width="587" />
   <outline>
-    <component base="uni030C" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="105" yOffset="187" />
+    <component base="uni030C" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="105" yOffset="127" />
     <component base="udieresis" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>

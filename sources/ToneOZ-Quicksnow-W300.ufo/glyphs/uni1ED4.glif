@@ -4,7 +4,7 @@
   <advance width="688" />
   <outline>
     <component base="O" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
-    <component base="uni0302" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="176" yOffset="197" />
-    <component base="hookabovecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="305" yOffset="269" />
+    <component base="uni0302" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="176" yOffset="204" />
+    <component base="hookabovecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="205" yOffset="426" />
   </outline>
 </glyph>
