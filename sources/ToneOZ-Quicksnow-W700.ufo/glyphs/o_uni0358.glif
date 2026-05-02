@@ -2,7 +2,7 @@
 <glyph name="o_uni0358" format="2">
   <advance width="624" />
   <outline>
-    <component base="uni0358" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="360" yOffset="0" />
+    <component base="uni0358" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="385" yOffset="-35" />
     <component base="o" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>

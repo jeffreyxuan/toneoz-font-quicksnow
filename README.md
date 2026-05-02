@@ -77,10 +77,6 @@ The QuickSnow family also works together with the free online phonetic editor:
 **ToneOZ IME**  
 https://toneoz.com/ime
 
-<img width="1920" height="1080" alt="quicksnow_ime_demo_traditional.jpg" src="./assets/quicksnow_ime_demo_traditional.jpg" />
-
-<img width="1920" height="1080" alt="quicksnow_ime_demo_simplified.jpg" src="./assets/quicksnow_ime_demo_simplified.jpg" />
-
 Features of the editor include:
 
 - automatic correction of polyphonic heteronyms characters
