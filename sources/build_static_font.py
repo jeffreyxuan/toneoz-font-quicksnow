@@ -24,7 +24,7 @@ def build_static_font() -> dict[str, object]:
         convertCubics=False,
         reverseDirection=False,
     )
-    # Drop format 4 subtables to avoid cmap compilation failures on large static sources.
+    # format 4 may overflow during direct save; merge step rebuilds cmap from UFO.
     font["cmap"].tables = [table for table in font["cmap"].tables if table.format != 4]
     font.save(str(OUTPUT_TTF))
     return {"success": True, "output_ttf": str(OUTPUT_TTF)}

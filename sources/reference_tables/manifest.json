@@ -3,7 +3,7 @@
   "build_mode": "variable",
   "variable_tables_ttx": "variable_tables.ttx",
   "table_json_dir": "tables",
-  "cmap_strategy": "from_ufo",
+  "cmap_strategy": "from_generated",
   "cmap_uvs_json": "cmap_uvs.json",
   "generated_json": "_tmp/generated_font.otd.json",
   "effective_json": "_tmp/effective_font.otd.json",

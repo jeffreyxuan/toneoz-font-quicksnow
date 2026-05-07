@@ -3,6 +3,8 @@
   "expected_name_token": "ToneOZ-Quicksnow",
   "glyph_count": 905,
   "cmap_size": 737,
+  "cmap_format4_size": 737,
+  "cmap_format12_size": 0,
   "family_names": [
     "ToneOZ-Quicksnow"
   ],
