@@ -66,8 +66,6 @@ The phonetic Kai fonts for Traditional and Simplified Chinese combine Quicksnow 
 
 <img width="1920" height="1080" alt="toneoz-quicksnow-logo04" src="./assets/toneoz-quicksnow-fb05.jpg" />
 
-<img width="1920" height="1080" alt="toneoz-quicksnow-logo04" src="./assets/simplified_toneoz-quicksnow-fb05.jpg" />
-
 ---
 
 ## Phonetic editor
